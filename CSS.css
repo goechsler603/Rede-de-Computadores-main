@@ -1,0 +1,40 @@
+#corpo{
+    background-color:black;
+}
+#logo{
+
+    color: #3A83C5;
+    text-align: center;
+    margin-top: 100px;
+    margin-left: 900px;
+}
+
+#titulo{
+    font-size: 5em;
+}
+
+#infos{
+    height: 50%;
+    position:absolute;
+	bottom:0;
+	width:100%;
+background-color: #3D4756;
+opacity: 70%;
+
+
+}
+
+#paginas{
+    height: 7%;
+    position:absolute;
+    margin-left: 60%;
+    margin-top: 10%;
+}
+.page-item{
+    background-color: #3D4756;
+    color: blue;
+}
+.page-link{
+    background-color: #3D4756;
+    color: blue;
+}
